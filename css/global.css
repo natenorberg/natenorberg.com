@@ -1,8 +1,21 @@
 body {
 	background: #ececec;
+	text-align: right;
+	width: 777px;
+	margin-left: auto;
+	margin-right: auto;
 }
 
-h1 {
-	font-family: "Helvetica", Ariel, sans-serif;
-	color: #555555
+#name {
+	font-family: "Open Sans", "Helvetica", Ariel, sans-serif;
+	font-weight: 300;
+	color: #222222
+}
+
+#header {
+	border-bottom: 1px #b7b7b7 solid;
+}
+
+#content {
+	border-top: 1px #ffffff solid;
 }
