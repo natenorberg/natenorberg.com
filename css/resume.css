@@ -1,0 +1,106 @@
+.indent_box {
+	border: 1px #888888 solid;
+	width: 47%;
+	height: 215px;
+	margin: 10px;
+	box-shadow: 0px 0px 3px #888888 inset;
+	background: #e3e3e3;
+	display: inline-block;
+}
+
+#education {
+	float: right;
+}
+
+.box_header {
+	margin: 10px 20px 0px 20px;
+	text-align: center;
+	border-bottom: 1px solid #b7b7b7;
+}
+
+.box_content {
+	margin: 0px 20px 15px 20px;
+	border-top: 1px solid #ffffff;
+}
+
+.job {
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+
+.separator {
+	border-top: 1px solid #b7b7b7;
+	border-bottom: 1px solid #ffffff;
+
+	margin: 0px 10px 0px 10px; 
+}
+
+.job_icon {
+	display: inline-block;
+	width: 20%;
+	height: 100px;
+	vertical-align: top;
+}
+
+.job_info {
+	display: inline-block;
+	width: 79%;
+}
+
+.job_info_content {
+	margin-left: 10px;
+}
+
+.logo {
+	max-width: 100%;
+	max-height: 100%;
+	margin-top: 32px;
+}
+
+p {
+	font-family: "Lucida Grande", "Helvetica", Arial, sans-serif;
+}
+
+h2, h3, h4 {
+	font-family: "Lucida Grande", "Helvetica", Arial, sans-serif;
+	color: #0a577c;
+	margin-top: 0px;
+}
+
+h3 {
+	margin-bottom: 10px;
+}
+
+h4.education_header {
+	margin-bottom: 0px;
+}
+
+p.education_info {
+	margin-top: 5px;
+	font-size: 14px;
+	padding-left: 12px;
+}
+
+ul {
+	list-style-type: none;
+	padding-left: 25px;
+}
+
+ul.education_list {
+	margin-top: 8px;
+}
+
+li {
+	font-family: "Lucida Grande", "Helvetica", Arial, sans-serif;
+	padding-bottom: 3px;
+}
+
+li.skills_list {
+	padding-top: 5px;
+	padding-bottom: 10px;
+}
+
+.column {
+	display: inline-block;
+	width: 49%;
+}
